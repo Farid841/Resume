@@ -1,2 +1,3 @@
-Result of this Latext file| Example (Fr) | Example (En) |
-| ![Fr](result/CV_Fr.pdf)| ![En](result/CV_En)  |
+| Résultat de ce fichier LaTeX | Exemple (Français) | Exemple (Anglais) |
+|------------------------------|--------------------|-------------------|
+| [CV Fr](result/CV_Fr.pdf) | [CV En](result/CV_En.pdf) |
