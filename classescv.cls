@@ -1,5 +1,5 @@
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{financecv}[2023-09-01 v1.0.0 financial curriculum vitae document class]
+\ProvidesClass{classescv}[2025-01-022 v1.0.0 curriculum vitae document class]
 
 \LoadClass{article}
 
